@@ -152,7 +152,6 @@ jobs:
           tags: |
             ${{ env.IMAGE_NAME }}:latest
             ${{ env.IMAGE_NAME }}:${{ steps.versioning.outputs.version }}
-            ${{ env.IMAGE_NAME }}:${{ github.sha }}
           labels: |
             org.opencontainers.image.version=${{ steps.versioning.outputs.version }}
             org.opencontainers.image.revision=${{ github.sha }}
