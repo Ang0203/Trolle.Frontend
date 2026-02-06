@@ -1,0 +1,99 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "create": "Create",
+        "edit": "Edit",
+        "confirm": "Confirm",
+        "add": "Add",
+        "done": "Done",
+        "close": "Close",
+        "title": "Title",
+        "description": "Description"
+    },
+    "hub": {
+        "workspaces": "Workspaces",
+        "your_workspaces": "Your Workspaces",
+        "create_new_board": "Create New Board",
+        "new_board_title": "New Board",
+        "sort_by_name": "Sort by Name",
+        "confirm_delete": "CONFIRM DELETE",
+        "enter_delete_mode": "Enter Delete Mode",
+        "exit_delete_mode": "Exit Delete Mode",
+        "delete_board_title": "Delete Board",
+        "delete_board_confirm": "Are you sure you want to delete this board? This action cannot be undone.",
+        "search_boards": "Search boards...",
+        "no_boards_found": "No boards found",
+        "to_resources": "Resources"
+    },
+    "board": {
+        "add_list": "Add another list",
+        "add_card": "Add a card",
+        "edit_board_title": "Edit Board Title",
+        "filters": "Filters",
+        "share": "Share",
+        "menu": "Menu",
+        "new_column_title": "New Column",
+        "new_card_title": "New Card",
+        "labels": "Labels",
+        "archived": "Archived",
+        "reorder": "Reorder",
+        "enter_column_title": "Enter column title..."
+    },
+    "card": {
+        "add_card": "Add Card",
+        "edit_card": "Edit Card",
+        "enter_card_title": "Enter card title...",
+        "archive_card": "Archive Card",
+        "archive_confirm": "Archive?",
+        "archive_button": "Archive",
+        "save_changes": "Save Changes",
+        "add_description": "Add a more detailed description..."
+    },
+    "labels": {
+        "board_labels": "Board Labels",
+        "search_labels": "Search labels...",
+        "no_labels_found": "No labels found",
+        "create_new_label": "Create a new label",
+        "create_label": "Create Label",
+        "edit_label": "Edit Label",
+        "delete_label": "Delete Label",
+        "new_label": "New Label",
+        "label_placeholder": "e.g. Bug, Feature, Urgent",
+        "color_picker": "Color Picker",
+        "delete_confirm": "Are you sure you want to delete this label?",
+        "edit_label_title": "Edit label",
+        "delete_label_title": "Delete label"
+    },
+    "filter": {
+        "filter_cards": "Filter Cards",
+        "card_title": "Card Title",
+        "search_by_title": "Search by title...",
+        "description_content": "Description Content",
+        "search_in_descriptions": "Search in descriptions...",
+        "no_labels_defined": "No labels defined for this board",
+        "clear_all": "Clear All"
+    },
+    "reorder": {
+        "reorder_board_elements": "Reorder Board Elements",
+        "columns": "Columns",
+        "cards": "Cards",
+        "order": "Order",
+        "no_cards": "No cards",
+        "apply_order": "Apply Order",
+        "saving": "Saving..."
+    },
+    "archived": {
+        "archived_cards": "Archived Cards",
+        "search_by_title": "Search by title...",
+        "no_results": "No results match search",
+        "no_archived_cards": "No archived cards",
+        "no_description": "No description",
+        "restore": "Restore"
+    },
+    "language": {
+        "en": "English",
+        "vi": "Tiếng Việt"
+    }
+}

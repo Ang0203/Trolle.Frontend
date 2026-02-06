@@ -1,0 +1,89 @@
+yarn.lock
+pnpm-lock.yaml
+
+# Node / package artifacts
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+*.log
+
+# Runtime / diagnostic files
+report.*.json
+pids
+*.pid
+*.seed
+*.pid.lock
+.node_repl_history
+
+# Build output / bundles / caches
+.next
+out
+dist
+build/
+build/Release
+.cache
+.parcel-cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.fusebox/
+.web_modules/
+.temp
+.vitepress/dist
+**/.vitepress/dist
+.vuepress/dist
+.docusaurus
+.serverless/
+.cache/
+.cache/*
+
+# Test coverage and test tool output
+coverage
+*.lcov
+.nyc_output
+
+# Dependency directories / package managers
+bower_components/
+jspm_packages/
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Lock / pack output (pack output can be ignored; keep lockfiles — see note)
+*.tgz
+
+# Dotfiles / env
+.env
+.env.*
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# VCS / project metadata
+.git
+.gitignore
+.gitattributes
+
+# IDE / editor files
+.vscode
+.vscode-test
+.idea
+*.sublime-workspace
+*.sublime-project
+
+# Lint / tool caches
+.eslintcache
+.stylelintcache
+
+# Misc / OS junk
+.DS_Store
+Thumbs.db
+.tern-port
+.dynamodb/

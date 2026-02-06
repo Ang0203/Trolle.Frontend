@@ -1,0 +1,99 @@
+{
+    "common": {
+        "cancel": "Hủy",
+        "save": "Lưu",
+        "delete": "Xóa",
+        "create": "Tạo mới",
+        "edit": "Chỉnh sửa",
+        "confirm": "Xác nhận",
+        "add": "Thêm",
+        "done": "Xong",
+        "close": "Đóng",
+        "title": "Tiêu đề",
+        "description": "Mô tả"
+    },
+    "hub": {
+        "workspaces": "Không gian làm việc",
+        "your_workspaces": "Không gian làm việc của bạn",
+        "create_new_board": "Tạo bảng mới",
+        "new_board_title": "Bảng mới",
+        "sort_by_name": "Sắp xếp theo tên",
+        "confirm_delete": "XÁC NHẬN XÓA",
+        "enter_delete_mode": "Vào chế độ xóa",
+        "exit_delete_mode": "Thoát chế độ xóa",
+        "delete_board_title": "Xóa bảng",
+        "delete_board_confirm": "Bạn có chắc chắn muốn xóa bảng này không? Hành động này không thể hoàn tác.",
+        "search_boards": "Tìm kiếm bảng...",
+        "no_boards_found": "Không tìm thấy bảng nào",
+        "to_resources": "Tài nguyên"
+    },
+    "board": {
+        "add_list": "Thêm danh sách khác",
+        "add_card": "Thêm thẻ",
+        "edit_board_title": "Chỉnh sửa tiêu đề bảng",
+        "filters": "Bộ lọc",
+        "share": "Chia sẻ",
+        "menu": "Menu",
+        "new_column_title": "Danh sách mới",
+        "new_card_title": "Thẻ mới",
+        "labels": "Nhãn",
+        "archived": "Lưu trữ",
+        "reorder": "Sắp xếp lại",
+        "enter_column_title": "Nhập tiêu đề danh sách..."
+    },
+    "card": {
+        "add_card": "Thêm thẻ",
+        "edit_card": "Chỉnh sửa thẻ",
+        "enter_card_title": "Nhập tiêu đề thẻ...",
+        "archive_card": "Lưu trữ thẻ",
+        "archive_confirm": "Lưu trữ?",
+        "archive_button": "Lưu trữ",
+        "save_changes": "Lưu thay đổi",
+        "add_description": "Thêm mô tả chi tiết..."
+    },
+    "labels": {
+        "board_labels": "Nhãn bảng",
+        "search_labels": "Tìm kiếm nhãn...",
+        "no_labels_found": "Không tìm thấy nhãn nào",
+        "create_new_label": "Tạo nhãn mới",
+        "create_label": "Tạo nhãn",
+        "edit_label": "Chỉnh sửa nhãn",
+        "delete_label": "Xóa nhãn",
+        "new_label": "Nhãn mới",
+        "label_placeholder": "vd. Lỗi, Tính năng, Khẩn cấp",
+        "color_picker": "Chọn màu",
+        "delete_confirm": "Bạn có chắc chắn muốn xóa nhãn này không?",
+        "edit_label_title": "Chỉnh sửa nhãn",
+        "delete_label_title": "Xóa nhãn"
+    },
+    "filter": {
+        "filter_cards": "Lọc thẻ",
+        "card_title": "Tiêu đề thẻ",
+        "search_by_title": "Tìm theo tiêu đề...",
+        "description_content": "Nội dung mô tả",
+        "search_in_descriptions": "Tìm trong mô tả...",
+        "no_labels_defined": "Chưa có nhãn nào cho bảng này",
+        "clear_all": "Xóa tất cả"
+    },
+    "reorder": {
+        "reorder_board_elements": "Sắp xếp lại các phần tử",
+        "columns": "Danh sách",
+        "cards": "Thẻ",
+        "order": "Thứ tự",
+        "no_cards": "Không có thẻ",
+        "apply_order": "Áp dụng",
+        "saving": "Đang lưu..."
+    },
+    "archived": {
+        "archived_cards": "Thẻ đã lưu trữ",
+        "search_by_title": "Tìm theo tiêu đề...",
+        "no_results": "Không có kết quả phù hợp",
+        "no_archived_cards": "Không có thẻ lưu trữ",
+        "no_description": "Không có mô tả",
+        "restore": "Khôi phục"
+    },
+    "language": {
+        "en": "English",
+        "vi": "Tiếng Việt"
+    }
+}
